@@ -1,12 +1,8 @@
 # GAME_PROGRAM-EX--2
 # Create a player movement using character, collectable, player health and score 
-
-## Name : NITHISH S
-## Reg No : 212223220070
-
 # Aim
 
-Create a playable third-person character in Unreal Engine that can move and run, collect coin-like collectibles, track a Score and Player Health, and display both on-screen (UI). 
+To Create a playable third-person character in Unreal Engine that can move and run, collect coin-like collectibles, track a Score and Player Health, and display both on-screen (UI). 
 
 ---
 
@@ -92,9 +88,13 @@ Create a playable third-person character in Unreal Engine that can move and run,
 * Update HUD: Call `UpdateHealthDisplay`
 # Output:
 <img width="516" height="215" alt="Screenshot 2025-11-13 132833" src="https://github.com/user-attachments/assets/18cea467-7cfa-486a-9383-af7393d665ac" />
+
 <img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/dfbcdcee-830a-4fce-a8c9-9f3b3c44bcd0" />
+
 <img width="1920" height="1200" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/bc79e6c7-58ed-4bb6-9a15-6547fd4babcf" />
+
 <img width="1182" height="572" alt="Screenshot 2025-11-13 134127" src="https://github.com/user-attachments/assets/8eb0b872-8f46-4c87-bb16-f130fe48f3d3" />
+
 
 # RESULT
 
